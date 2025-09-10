@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about web dev and frontend<br><br>📫 How to reach me shankarganesh3005@gmail.com
+ I’m currently pursuing B.Tech in Computer Science Engineering (Graduating May 2026)
+ Experienced in MERN stack, Next.js, and scalable web applications
+ Ask me about frontend development, REST APIs, and software testing platforms
+ Reach me at shankarganesh3005@gmail.com
 
 
 ## 🌐 Socials:
