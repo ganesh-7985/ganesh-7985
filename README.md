@@ -1,7 +1,8 @@
 # 💫 About Me:
  I’m currently pursuing B.Tech in Computer Science Engineering (Graduating May 2026)
  Experienced in MERN stack, Next.js, and scalable web applications
- Ask me about frontend development, REST APIs, and software testing platforms
+ Ask me about frontend development, REST APIs, and software testing platforms.
+ 
  Reach me at shankarganesh3005@gmail.com
 
 
